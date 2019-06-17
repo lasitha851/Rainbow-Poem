@@ -1,8 +1,9 @@
-The Rainbow
+The Rainbow and umicorn
 
 purple 
 pink
 green
-orange 
+orange
+unicorn
 blue
 yellow 
